@@ -1,0 +1,8 @@
+readme...............
+git innit
+git status
+git checkout -b branchnew
+git add file
+git commit -m "ten"
+git remote  add "ten" link_git
+git push
